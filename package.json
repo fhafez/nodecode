@@ -12,6 +12,9 @@
   "devDependencies": {
     "jasmine-node": "^1.14.5"
   },
+  "script": {
+    "start":"node app_5_37.js"
+  },
   "author": "Fadi",
   "license": "ISC"
 }
