@@ -12,9 +12,6 @@
   "devDependencies": {
     "jasmine-node": "^1.14.5"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Fadi",
   "license": "ISC"
 }
